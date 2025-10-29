@@ -1,4 +1,4 @@
-#MLX90640_Thermal_Camera_with_ESP32
+# MLX90640_Thermal_Camera_with_ESP32
 
 -----------------------------
 Description:
